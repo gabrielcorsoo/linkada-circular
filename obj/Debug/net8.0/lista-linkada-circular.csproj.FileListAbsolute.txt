@@ -1,0 +1,15 @@
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\bin\Debug\net8.0\lista-linkada-circular.exe
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\bin\Debug\net8.0\lista-linkada-circular.deps.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\bin\Debug\net8.0\lista-linkada-circular.runtimeconfig.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\bin\Debug\net8.0\lista-linkada-circular.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\bin\Debug\net8.0\lista-linkada-circular.pdb
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\lista-linkada-circular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\lista-linkada-circular.AssemblyInfoInputs.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\lista-linkada-circular.AssemblyInfo.cs
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\lista-linkada-circular.csproj.CoreCompileInputs.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\lista-linkada-circular.sourcelink.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\lista-linkada-circular.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\refint\lista-linkada-circular.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\lista-linkada-circular.pdb
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\lista-linkada-circular.genruntimeconfig.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada-circular\obj\Debug\net8.0\ref\lista-linkada-circular.dll
